@@ -25,6 +25,7 @@ The primary purpose of this project is to:
 Suvashish Shrestha
 
 Email: shresthasuvashish@gmail.com
+
 ---
 
 ## 🚀 How to Run
