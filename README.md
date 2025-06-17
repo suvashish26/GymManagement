@@ -21,7 +21,9 @@ The primary purpose of this project is to:
 - **Last Updated:** June 16, 2025
 
 ## 👨‍💻 AUTHOR
+
 Suvashish Shrestha
+
 Email: shresthasuvashish@gmail.com
 ---
 
