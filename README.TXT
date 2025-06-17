@@ -4,7 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-<h1> 🏋️‍♂️ Gym Management System </h1>
+🏋️‍♂️ Gym Management System
 
 ## 📌 Project Overview
 
